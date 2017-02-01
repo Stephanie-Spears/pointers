@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  c:\users\stephanie\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\stephanie\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): warning C4627: '#include <iomanip>': skipped when looking for precompiled header use
+  c:\users\stephanie\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(2): note: Add directive to 'stdafx.h' or rebuild precompiled header
+c:\users\stephanie\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(94): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
